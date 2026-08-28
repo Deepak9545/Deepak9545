@@ -78,48 +78,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 Student Management System
-> Full Stack project for managing student records.
-
-**Tech:** `HTML` `CSS` `Bootstrap` `JavaScript` `Node.js` `Express.js` `MongoDB`
-
-### 🟨 JavaScript Part 2
-> JavaScript concepts, practice programs and coding exercises.
-
-**Tech:** `JavaScript` `HTML` `CSS`
-
-### 🌐 Portfolio Website
-> Personal portfolio website to showcase my skills, projects and learning journey.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak9545&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak9545&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Deepak9545&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak9545&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
