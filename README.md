@@ -107,10 +107,10 @@
 </a>
 
 
-<a href="https://www.instagram.com/_deepak_yd_45/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
-</a>
 
+<a href="https://www.instagram.com/_deepak_yd_45/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </div>
 
 ---
